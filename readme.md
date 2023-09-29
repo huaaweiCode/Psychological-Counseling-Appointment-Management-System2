@@ -1,9 +1,5 @@
+
 # 心理咨询预约管理系统2
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**心理2** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 
 ## 1、项目介绍
@@ -90,49 +86,51 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252207865.jpg)
+![登录](https://img-blog.csdnimg.cn/img_convert/9fc7c2e0fc1505afcbf92567c674265d.jpeg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252207983.jpg)
+![注册](https://img-blog.csdnimg.cn/img_convert/36d4f17b58208b639f1da300ae898d68.jpeg)
 
 ### 4.2 用户模块
 
-![用户-咨询记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208371.jpg)
+![用户-咨询记录](https://img-blog.csdnimg.cn/img_convert/6b608f005192ae81d69e114be2cfda81.jpeg)
 
-![用户-预约1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208620.jpg)
+![用户-预约1](https://img-blog.csdnimg.cn/img_convert/5f9c98597d2d3ef1b58ec548899d9514.jpeg)
 
-![用户-预约2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208152.jpg)
+![用户-预约2](https://img-blog.csdnimg.cn/img_convert/3db04c467c7c3d0c922663cf5778572a.jpeg)
 
-![用户-消息记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208934.jpg)
+![用户-消息记录](https://img-blog.csdnimg.cn/img_convert/bfb3b6b9636528f823a10dd89ff86c6a.jpeg)
 
-![用户-我的预约](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208396.jpg)
+![用户-我的预约](https://img-blog.csdnimg.cn/img_convert/12c42a76f4517889f28b8d5c18d65979.jpeg)
 
-![用户-留言](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208779.jpg)
+![用户-留言](https://img-blog.csdnimg.cn/img_convert/16b9570e1a957d8f68f232f2ec54c621.jpeg)
 
 ### 4.3 咨询师模块
 
-![咨询师-咨询记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208583.jpg)
+![咨询师-咨询记录](https://img-blog.csdnimg.cn/img_convert/d7f336287b9961105a8c2529e519937e.jpeg)
 
-![咨询师-咨询管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208441.jpg)
+![咨询师-咨询管理](https://img-blog.csdnimg.cn/img_convert/3a5d64f0a273ce6fa2bca27e60bd7e3f.jpeg)
 
-![咨询师-消息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208258.jpg)
+![咨询师-消息管理](https://img-blog.csdnimg.cn/img_convert/20689fe4a088ff83e9e43e3ada553d65.jpeg)
 
-![咨询师-申请管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208596.jpg)
+![咨询师-申请管理](https://img-blog.csdnimg.cn/img_convert/7854978122422e5ed9a7da90e792ade5.jpeg)
 
 ### 4.4 管理员模块
 
-![管理员-后端首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208609.jpg)
+![管理员-后端首页](https://img-blog.csdnimg.cn/img_convert/42710e54e45f40dd06d2eb7581e78718.jpeg)
 
-![管理员-咨询师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208394.jpg)
+![管理员-咨询师管理](https://img-blog.csdnimg.cn/img_convert/efe0fb498175b282409316a9da4e1a9f.jpeg)
 
-![管理员-问卷管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208515.jpg)
+![管理员-问卷管理](https://img-blog.csdnimg.cn/img_convert/c59b3e1c5faa973a96e9eb36d010a309.jpeg)
 
-![管理员-添加公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208161.jpg)
+![管理员-添加公告](https://img-blog.csdnimg.cn/img_convert/4a90a5584e2550b085bcc286cd76039d.jpeg)
 
-![管理员-来访者管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309252208101.jpg)
+![管理员-来访者管理](https://img-blog.csdnimg.cn/img_convert/cea8983c2d7925d88341e7a7ed9519d5.jpeg)
 
-## 5、视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：心理
+
+![gitee](https://img-blog.csdnimg.cn/img_convert/aa265d2bd44777b546d3fb177ad213f2.png)
 
 
